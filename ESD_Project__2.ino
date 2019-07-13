@@ -1,9 +1,9 @@
 #define BLYNK_PRINT Serial
 #include<ESP8266WiFi.h>
 #include<BlynkSimpleEsp8266.h>
-char auth[]="359d90c136ef4d33bb93a7406161f12d";
-char ssid[]="Omega";
-char pass[]="Alpha123456";
+char auth[]=" Blynk Authentation Key ";
+char ssid[]=" Wifi Name ";
+char pass[]=" Wifi Password ";
 //int IR=D4;
 int L1=D1;
 int L2=D0;
